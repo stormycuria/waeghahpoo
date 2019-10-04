@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aijohpakoh.thaghry.com/sitemap.xml
